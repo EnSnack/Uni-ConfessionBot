@@ -4,3 +4,5 @@ A university assignment to create a project in Processing, this was mine and my 
 The point of the project was to create a twitter bot that popularizes people's confessions. People often post confessions but without a big following it is rare these get seen by other people. This bot tried to break that link.
 
 Of course - the bot never gained traction because it only ran temporarily. I have cleaned out the API tokens due to sensitive information.
+
+The twitter account in question is https://twitter.com/confessionb0t
